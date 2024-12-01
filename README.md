@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Choudhary</h1>
 <h3 align="center">Data Analyst | Python & SQL Enthusiast | Data Visualization Expert</h3>
 
-<img align="right" alt="Data Visualization" width="300" src="https://cdn.prod.website-files.com/59e16042ec229e00016d3a66/64c03019401ab11733f2e1be_data-visualization%2Blinking_blog-hero.gif">
+/*<img align="right" alt="Data Visualization" width="300" src="https://cdn.prod.website-files.com/59e16042ec229e00016d3a66/64c03019401ab11733f2e1be_data-visualization%2Blinking_blog-hero.gif">*/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-9033&label=Profile%20views&color=0e75b6&style=flat" alt="raj-9033" /> </p>
 
